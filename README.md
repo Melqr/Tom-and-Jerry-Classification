@@ -29,7 +29,6 @@ Utilized Convolutional Neural Networks (CNNs) for feature extraction and classif
 
 # Results
 - Significant improvement in classification accuracy with the application of image processing techniques.
-- Detailed comparison of models with and without image processing is provided in the report.
 
 # Conclusion
 The project demonstrates the effectiveness of image processing in improving the classification accuracy of Tom and Jerry images, providing valuable insights into the benefits of preprocessing steps in machine learning models.
